@@ -13,10 +13,10 @@ android {
   compileSdk { version = release(36) { minorApiLevel = 1 } }
 
   defaultConfig {
-    applicationId = "dev.arnv.bluke"
+    applicationId = "io.github.yusce.blukegamepad"
     minSdk = 28
     targetSdk = 36
-    versionCode = 9
+    versionCode = 1
     versionName = "1.0"
 
     testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
