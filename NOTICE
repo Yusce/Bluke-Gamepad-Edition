@@ -1,0 +1,17 @@
+Bluke Gamepad Edition v1.0
+
+This software is an unofficial derivative of Bluke:
+https://github.com/arnav-kr/Bluke
+
+Bluke was created by Arnav Kumar and its contributors. Some UI and audio assets
+in the upstream project originated from kbsim:
+https://github.com/tplai/kbsim
+
+Joypad OS is referenced as a compatibility target:
+https://github.com/joypad-ai/joypad-os
+
+Bluke Gamepad Edition is distributed under the GNU Affero General Public
+License, version 3. The complete license text is provided in LICENSE.
+
+No affiliation with or endorsement by the upstream or referenced projects is
+claimed.
