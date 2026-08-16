@@ -24,6 +24,8 @@ Android → Bluetooth HID → Pico 2 W / Joypad OS → 目标设备
 
 **不需要在 Windows 或其他最终被控制设备上安装专用的接收客户端。**
 
+这是一个个人维护的非官方 fork，并大量使用Codex。
+
 ## 主要功能
 
 - 可编辑手柄布局
@@ -33,7 +35,7 @@ Android → Bluetooth HID → Pico 2 W / Joypad OS → 目标设备
 - 陀螺仪映射
 - 布局导入 / 导出
 - PC Direct 与 Joypad OS 两套 HID Profile
-- 125 / 250 / 500 Hz 目标回报率
+- 125 / 250 / 500 Hz 目标回报率（尽管达不到）
 
 ## 使用方式
 
@@ -91,8 +93,6 @@ Windows PowerShell：
 - [Bluke](https://github.com/arnav-kr/Bluke) - 本项目的上游项目，作者 Arnav Kumar
 - [kbsim](https://github.com/tplai/kbsim) - 原版 Bluke 使用的部分 UI / 音频素材
 - [Joypad OS](https://github.com/joypad-ai/joypad-os) - Joypad OS 兼容目标
-
-这是一个个人维护的非官方 fork，并大量使用Codex。
 
 ## License
 

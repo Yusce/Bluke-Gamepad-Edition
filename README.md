@@ -24,6 +24,8 @@ I later continued improving the touchscreen controller itself while keeping a PC
 
 One of the main characteristics of this project is that **no dedicated receiver or companion app needs to be installed on Windows or the final controlled device**.
 
+This is a personal, unofficial fork and is not affiliated with or endorsed by the Bluke or Joypad OS projects.This project has been developed extensively with Codex.
+
 ## Features
 
 - Editable controller layouts
@@ -33,7 +35,7 @@ One of the main characteristics of this project is that **no dedicated receiver 
 - Gyroscope mapping
 - Layout import / export
 - Separate PC Direct and Joypad OS HID profiles
-- 125 / 250 / 500 Hz target report rates
+- 125 / 250 / 500 Hz target report rates ( Although it does not reach )
 
 ## Usage
 
@@ -91,8 +93,6 @@ Windows PowerShell:
 - [Bluke](https://github.com/arnav-kr/Bluke) - upstream project by Arnav Kumar
 - [kbsim](https://github.com/tplai/kbsim) - source of some UI / audio assets used by upstream Bluke
 - [Joypad OS](https://github.com/joypad-ai/joypad-os) - Joypad OS compatibility target
-
-This is a personal, unofficial fork and is not affiliated with or endorsed by the Bluke or Joypad OS projects.This project has been developed extensively with Codex.
 
 ## License
 
